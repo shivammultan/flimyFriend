@@ -150,6 +150,7 @@ const Signup = () => {
             Password
           </label>
           <input
+            required='true'
             type={'password'}
             id="message"
             name="message"
